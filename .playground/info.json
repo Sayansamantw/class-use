@@ -1,0 +1,10 @@
+{"a":"class use","b":"class","c":"CPP"}
+ 
+class hero {
+  
+ public:
+  char name[100];
+  int health;
+  char level;
+  
+}
